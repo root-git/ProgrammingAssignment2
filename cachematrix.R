@@ -1,6 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
 #This function create a special "matrix" object that can cahce its inverse
 
 #Set the value of the matrix
